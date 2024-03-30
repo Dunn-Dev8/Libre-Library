@@ -4,5 +4,6 @@
 ## Dependencies
 - Java Runtime Environment (JRE)
   - https://www.java.com/en/download/manual.jsp
+ (Go to release tab on github to get a .jar executable)
 
 *Please note this project is not finished and still not even close to a finished product*
